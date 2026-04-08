@@ -1,0 +1,5 @@
+{
+  "name": "Omni-Assistant",
+  "description": "A futuristic AI assistant with live voice interaction, coding capabilities, and simulated PC control.",
+  "requestFramePermissions": ["microphone"]
+}
